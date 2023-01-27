@@ -1,0 +1,19 @@
+@font-face {
+    font-family: yekan;
+    src: url(./font/Yekan.eot)format('FontName-opentype');
+    src: url(./font/Yekan.ttf)format('truetype');
+    src: url(./font/Yekan.woff)format('woff');
+}
+body{
+    font-family: 'yekan';
+}
+.img-foter{
+    width: 200px;
+    height: 50px;
+}
+.btn-outline-primary{
+    width: 100% !important;
+}
+.logo{
+    height: 40px !important;
+}
